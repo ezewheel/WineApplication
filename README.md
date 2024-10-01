@@ -3,4 +3,4 @@ Endpoint /api/wine
   - POST: va a crear un vino con Nombre, Variedad, Año, Región y Stock y va a devolver la lista de Vinos actualizada
 
 Endpoint api/wine/signin
-  - POST: va a crear un usuario con el Nombre y la Contraseña dados
+  - POST: va a crear un usuario con el Nombre y la Contraseña dados y lo va a devolver
